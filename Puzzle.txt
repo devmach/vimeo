@@ -1,4 +1,4 @@
-Here’s a small code exercise.  The goal is to give us a better idea of how you think, organize code, and solve problems.
+Here’s a small code exercise.
 
 The Exercise:
 
